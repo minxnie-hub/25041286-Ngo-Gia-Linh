@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 56" fill="none">
+  <title>Ngô Gia Linh</title>
+  <g aria-hidden="true">
+    <path d="M4 5h42v9H14v28h22v-8H26v-8h20v25H4V5Z" fill="#669BBC" stroke="#003049" stroke-width="1.5" paint-order="stroke fill"/>
+    <path d="M28 17 37 5l9 12-5.5 4.2L37 16.5l-3.5 4.7L28 17Z" fill="#C1121F"/>
+    <text x="58" y="31" fill="#FDF0D5" stroke="#003049" stroke-width="1.4" paint-order="stroke fill" font-family="Arial Black, Arial, sans-serif" font-size="23" font-weight="900" letter-spacing=".5">NGÔ GIA LINH</text>
+    <text x="59" y="46" fill="#669BBC" stroke="#003049" stroke-width=".55" paint-order="stroke fill" font-family="Arial, sans-serif" font-size="8.5" font-weight="700" letter-spacing="1.8">RUSSIAN STUDIES / QH2025</text>
+  </g>
+</svg>

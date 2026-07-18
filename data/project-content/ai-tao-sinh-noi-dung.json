@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "id": 5,
+    "slug": "ai-tao-sinh-noi-dung",
+    "title": "AI tạo sinh & sáng tạo nội dung",
+    "shortTitle": "Creative AI",
+    "eyebrow": "Creative direction",
+    "summary": "Phối hợp Gemini, Midjourney và Canva AI để phát triển bài thuyết trình về vượt qua nỗi sợ giao tiếp ngoại ngữ.",
+    "highlight": "AI tạo nguyên liệu; con người biên tập, phản biện và quyết định để nội dung có cảm xúc và đúng mục tiêu.",
+    "tools": [
+      "Gemini",
+      "Midjourney",
+      "Canva AI"
+    ],
+    "number": "05",
+    "year": "2026",
+    "cover": "/projects/ai-tao-sinh-noi-dung/image3.webp",
+    "document": "/documents/ai-tao-sinh-noi-dung.docx",
+    "blockCount": 39
+  },
+  "blocks": [
+    {
+      "type": "heading1",
+      "text": "I. GIỚI THIỆU DỰ ÁN",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Tên sản phẩm: Cẩm nang số \"Vượt qua nỗi sợ giao tiếp cùng trợ lý AI\".",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Định dạng: Bài thuyết trình.",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Đối tượng hướng đến: Sinh viên năm nhất ngành Ngôn ngữ mới bắt đầu tiếp cận bảng chữ cái, hệ thống phát âm, trọng âm phức tạp và gặp rào cản tâm lý khi nó",
+      "images": []
+    },
+    {
+      "type": "heading2",
+      "text": "II. Quá trình làm bài",
+      "images": []
+    },
+    {
+      "type": "heading2",
+      "text": "1. Giai đoạn 1: Phát triển nội dung và kịch bản Slide với Google Gemin",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Mục tiêu: Chia cấu trúc bài thuyết trình thành các Slide mạch lạc và viết lời thoại cho người nói.",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Prompt nâng cao đã sử dụng:",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "\"Đóng vai là một Chuyên gia diễn thuyết (Public Speaker) và Giảng viên Ngôn ngữ. Hãy xây dựng cho tôi cấu trúc một bài thuyết trình gồm 5 slide với chủ đề 'Vượt qua nỗi sợ giao tiếp cùng trợ lý AI'. Mỗi slide phải bao gồm 2 phần: 1. Nội dung hiển thị ngắn gọn trên Slide (Bullet points); 2. Kịch bản lời thoại chi tiết cho người thuyết trình (Speech script). Văn phong lôi cuốn, hiện đại.\"",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Kết quả từ AI: Chat GPT trả về cấu trúc 5 slide rất logic từ khâu đặt vấn đề, phân tích nguyên nhân cho đến giải pháp công nghệ và truyền cảm hứng hành động.",
+      "images": [
+        "/projects/ai-tao-sinh-noi-dung/image2.png"
+      ]
+    },
+    {
+      "type": "body",
+      "text": "Đóng góp cá nhân: Lời thoại gốc của AI còn mang tính nhạc điệu máy móc, văn phong lý thuyết suông và phân bổ quá nhiều chữ lên màn hình. Tôi đã tiến hành cải biên như sau:",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Cắt giảm 60% chữ trên Slide: Lược bỏ toàn bộ các đoạn văn dài do AI tự động tạo ra, chỉ giữ lại từ 3-5 từ khóa cốt lõi (Keywords) để tránh gây loãng thị giác cho người xem.",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Cá nhân hóa và tăng tính tương tác: Sửa lại lời thoại Slide 1 bằng một câu hỏi mở giao lưu: \"Trong lớp ngày hôm nay, có bao nhiêu bạn từng tim đập chân run khi nói chuyện với người nước ngoài?\" giúp kết nối trực tiếp với khán giả thay vì độc thoại lý thuyết.",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Đặc thù hóa giải pháp ngôn ngữ (Slide 3): Chỉ đích danh công cụ thực tế là ChatGPT Voice Mode và lồng ghép tình huống sửa lỗi phát âm, lỗi nhấn sai trọng âm thực tế mà sinh viên ngoại ngữ hay gặp phải.",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Giai đoạn 2: Tạo dựng hình ảnh trực quan với Midjourney",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Mục tiêu: Tạo hệ thống hình ảnh minh họa phong cách công nghệ số đồng bộ cho các slide thay vì sử dụng ảnh mạng thông thường.",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Prompt đã sử dụng (English): > \"A giant smartphone acting as a gateway to learning, 3D isometric view. A cute robot character on the screen gestures toward a young boy holding a tablet. Floating speech bubbles filled with abstract symbols. The scene is set against a neon-lit technological void with vibrant purple and teal light trails. Highly detailed 3D illustration, sharp focus, clean lines.\"",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Kết quả từ AI: Hệ thống kết xuất một tác phẩm đồ họa 3D hoàn chỉnh với bố cục: Nhân vật robot thân thiện bước ra từ màn hình điện thoại hướng về phía học sinh, phối màu Neon (Tím - Xanh) đúng tinh thần công nghệ số và ngôn ngữ tương lai.",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "",
+      "images": [
+        "/projects/ai-tao-sinh-noi-dung/image3.webp"
+      ]
+    },
+    {
+      "type": "heading2",
+      "text": "3. Giai đoạn 3: Thiết kế và Hoàn thiện bài thuyết trình với Canva AI",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Mục tiêu: Sử dụng trí tuệ nhân tạo để tự động hóa khâu dàn trang (Layout) và tinh chỉnh thẩm mỹ cho toàn bộ 5 Slide thuyết trình.",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Công cụ AI sử dụng: Canva Magic Design (Tự động tạo mẫu từ văn bản) và Magic Eraser (Xóa vật thể thông minh).",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Cách thức thực hiện:",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Em nhập từ khóa và cấu trúc nội dung từ Giai đoạn 1 vào tính năng Magic Design.",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Lựa chọn bộ lọc thiết kế \"Technology\" và \"Modern\" để AI đề xuất các mẫu Layout tối giản, tập trung vào trải nghiệm người xem.",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Kết quả:",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": ":Chỉnh sửa: Mẫu thiết kế tự động của AI thường bị lỗi về mặt bố cục khi kết hợp với hình ảnh riêng biệt. Em đã chủ động thực hiện các thay đổi:",
+      "images": [
+        "/projects/ai-tao-sinh-noi-dung/image4.png"
+      ]
+    },
+    {
+      "type": "body",
+      "text": "Tối ưu hóa bảng màu (Color Palette): Thay đổi bộ màu xanh-trắng mặc định của AI sang bộ màu \"Tech-Warm\" (Xanh Teal và Cam Pastel) để tạo cảm giác thân thiện, phù hợp với thông điệp \"vượt qua nỗi sợ\".",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Căn chỉnh bố cục chuyên sâu: Áp dụng Quy tắc 1/3 (Rule of Thirds) để sắp xếp lại vị trí hình ảnh tạo ra từ Giai đoạn 2 và khối văn bản từ Giai đoạn 1. Việc này giúp slide có nhiều \"khoảng trắng\", tránh lỗi quá tải thông tin của thiết kế tự động.",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Hậu kỳ hình ảnh: Sử dụng công cụ Magic Eraser để xóa bỏ các chi tiết thừa trong ảnh AI và tự tay chèn các Text Box chứa nội dung thực tế (Practice, Feedback, Growth) để hình ảnh đồng nhất với kịch bản thuyết trình.",
+      "images": []
+    },
+    {
+      "type": "heading1",
+      "text": "III. BẢNG TỔNG KẾT VÀ ĐÁNH GIÁ HIỆU QUẢ CÁC CÔNG CỤ AI",
+      "images": []
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Tiêu chí so sánh",
+          "Google Gemini (Giai đoạn 1)",
+          "Midjourney (Giai đoạn 2)",
+          "Canva AI (Giai đoạn 3)"
+        ],
+        [
+          "Ưu điểm đột phá",
+          "Khả năng tư duy cấu trúc kịch bản mạch lạc, phân chia thời lượng nói 5–7 phút chuẩn xác.",
+          "Chất lượng đồ họa 3D Isometric xuất sắc, màu sắc neon đồng bộ, tạo tính độc quyền cho slide.",
+          "Tự động hóa khâu dàn trang (Layout), đề xuất chuyển động (Transition) mượt mà, nhanh chóng."
+        ],
+        [
+          "Hạn chế thực tế",
+          "Văn phong gốc bị máy móc, lạm dụng bullet points và nhồi nhét quá nhiều chữ lên màn hình.",
+          "Gặp giới hạn lớn trong việc render chữ (hiển thị ký tự vô nghĩa), nhân vật bị thiên kiến nét mặt phương Tây.",
+          "Các mẫu tự động đôi khi bị lỗi đè chữ lên hình ảnh, cần căn chỉnh thủ công lại rất nhiều."
+        ],
+        [
+          "Thay đổi quy trình",
+          "Thay vì vắt óc nghĩ từng câu, quy trình chuyển sang: Biên tập, cá nhân hóa và chọn lọc từ khóa.",
+          "Thay vì mất hàng giờ tìm ảnh stock dính bản quyền, nay chỉ cần 2 phút để tạo ra ảnh đúng bối cảnh.",
+          "Chuyển vai trò cá nhân từ \"người vẽ kỹ thuật\" sang \"người giám tuyển thẩm mỹ\" (Art Director)."
+        ]
+      ]
+    },
+    {
+      "type": "heading1",
+      "text": "IV. ĐÁNH GIÁ CHUYÊN SÂU VÀ TÍNH PHẢN BIỆN (ĐẠO ĐỨC SỐ)",
+      "images": []
+    },
+    {
+      "type": "heading2",
+      "text": "1. Vai trò của AI và sự thay đổi quy trình sáng tạo",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Việc phối hợp bộ ba công cụ AI (Gemini, Midjourney, Canva) đã tái định nghĩa hiệu suất làm việc của sinh viên trong kỷ nguyên số. Công nghệ đã giúp tối ưu hóa đến 80% thời gian thực thi kỹ thuật (gõ văn bản, tìm kiếm ảnh, dựng khung slide). Sự thay đổi lớn nhất trong quy trình làm việc của em là chuyển dịch từ tư duy \"tự làm mọi thứ thủ công\" sang tư duy \"điều phối, giám sát và ra quyết định\". AI cung cấp nguyên liệu thô, nhưng chính con người mới là thực thể hoàn thiện tác phẩm.",
+      "images": []
+    },
+    {
+      "type": "heading2",
+      "text": "2. Các vấn đề đạo đức số cần cân nhắc",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Do Midjourney kết xuất hình ảnh dựa trên kho dữ liệu của hàng triệu nghệ sĩ kỹ thuật số trên thế giới, em đã chủ động thêm phần Credit bản quyền nhỏ dưới góc các slide: \"Hình ảnh được hỗ trợ khởi tạo bởi AI\" để đảm bảo đạo đức số và tính minh bạch.",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Khi xây dựng kịch bản, ChatGPT/Gemini từng đưa ra một số lời khuyên sai lệch về mặt phương pháp luận ngoại ngữ (như khuyên bật dịch tự động khi luyện nói). Em đã chủ động phát hiện lỗi logic này, phản biện lại hệ thống và loại bỏ nó khỏi bài thuyết trình thực tế để tránh lan truyền \"rác kiến thức\".",
+      "images": []
+    },
+    {
+      "type": "body",
+      "text": "Ngôn ngữ là văn hóa và cảm xúc. AI có thể chuẩn về cấu trúc ngữ pháp nhưng bất lực trong việc thể hiện ngôn ngữ cơ thể (Body language), ánh mắt tương tác (Eye contact) và năng lượng truyền cảm hứng của người nói. AI chỉ là bệ phóng, năng lực thực tế của con người mới là cốt lõi.",
+      "images": []
+    }
+  ]
+}

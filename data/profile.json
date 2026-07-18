@@ -1,0 +1,32 @@
+{
+  "name": "Ngô Gia Linh",
+  "studentId": "25041286",
+  "cohort": "QH2025",
+  "faculty": "Khoa Ngôn ngữ và Văn hoá Nga",
+  "school": "Trường Đại học Ngoại ngữ, ĐHQGHN",
+  "schoolShort": "ULIS - VNU",
+  "interests": ["Nghe nhạc", "Xem phim"],
+  "goals": [
+    "Cải thiện và phát triển kỹ năng giao tiếp",
+    "Ứng dụng công nghệ trong học tập"
+  ],
+  "career": "Phiên dịch viên",
+  "palette": {
+    "deepRed": "#780000",
+    "crimson": "#C1121F",
+    "cream": "#FDF0D5",
+    "navy": "#003049",
+    "blue": "#669BBC",
+    "pastelNavy": "#043676",
+    "pastelBlue": "#5B90C3",
+    "pastelPink": "#C57CA1",
+    "pastelRose": "#DCA8C2",
+    "pastelLavender": "#C2BDDD"
+  },
+  "images": {
+    "hero": "/profile/portrait-main.webp",
+    "portrait": "/profile/portrait-winter.webp",
+    "facultyEvent": "/profile/russian-faculty-event.webp",
+    "culturalEvent": "/profile/from-hanoi-to-moscow.webp"
+  }
+}

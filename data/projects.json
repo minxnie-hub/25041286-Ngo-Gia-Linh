@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "slug": "quan-ly-tep-thu-muc",
+    "title": "Quản lý tệp & thư mục",
+    "shortTitle": "File system",
+    "eyebrow": "Digital foundations",
+    "summary": "Thực hành tổ chức dữ liệu trên Windows: tạo, đổi tên, sao chép, di chuyển, xoá và khôi phục tệp một cách có hệ thống.",
+    "highlight": "Từ một thư mục trống đến quy trình quản lý tệp hoàn chỉnh, có minh chứng cho từng thao tác.",
+    "tools": [
+      "Windows",
+      "File Explorer",
+      "Data organization"
+    ],
+    "number": "01",
+    "year": "2026",
+    "cover": "/projects/quan-ly-tep-thu-muc/image18.png",
+    "document": "/documents/quan-ly-tep-thu-muc.docx",
+    "blockCount": 36
+  },
+  {
+    "id": 2,
+    "slug": "tu-vung-kinh-te-nga",
+    "title": "Tiếng Anh trong từ vựng kinh tế Nga",
+    "shortTitle": "English → Russian",
+    "eyebrow": "Research literacy",
+    "summary": "Xây dựng và đánh giá hệ thống nguồn học thuật cho chủ đề ảnh hưởng của tiếng Anh lên từ vựng kinh tế trong tiếng Nga đương đại.",
+    "highlight": "Đối chiếu nguồn Nga, chuyển tự Latinh và tiêu chí độ tin cậy để tạo nền tảng nghiên cứu có thể kiểm chứng.",
+    "tools": [
+      "Academic research",
+      "Source evaluation",
+      "Russian linguistics"
+    ],
+    "number": "02",
+    "year": "2026",
+    "cover": null,
+    "document": "/documents/tu-vung-kinh-te-nga.docx",
+    "blockCount": 99
+  },
+  {
+    "id": 3,
+    "slug": "prompt-engineering-hoc-tap",
+    "title": "Prompt Engineering cho học tập",
+    "shortTitle": "Prompt design",
+    "eyebrow": "Human × AI",
+    "summary": "Thử nghiệm ba cấp độ prompt qua các tác vụ tóm tắt, giải thích khái niệm và tạo câu hỏi ôn tập.",
+    "highlight": "So sánh đầu ra thực tế để chỉ ra vì sao vai trò, bối cảnh và định dạng đầu ra làm prompt tốt hơn.",
+    "tools": [
+      "ChatGPT",
+      "Prompt Engineering",
+      "Learning design"
+    ],
+    "number": "03",
+    "year": "2026",
+    "cover": "/projects/prompt-engineering-hoc-tap/image11.png",
+    "document": "/documents/prompt-engineering-hoc-tap.docx",
+    "blockCount": 190
+  },
+  {
+    "id": 4,
+    "slug": "hop-tac-truc-tuyen",
+    "title": "Hợp tác trực tuyến cho dự án nhóm",
+    "shortTitle": "Team workflow",
+    "eyebrow": "Digital collaboration",
+    "summary": "Thiết kế quy trình làm việc nhóm một tuần bằng Trello, Google Docs, Drive và Discord với vai trò trưởng nhóm.",
+    "highlight": "Một hệ thống phối hợp rõ người, rõ việc, rõ phiên bản và có nhịp cập nhật xuyên suốt dự án.",
+    "tools": [
+      "Trello",
+      "Google Docs",
+      "Google Drive",
+      "Discord"
+    ],
+    "number": "04",
+    "year": "2026",
+    "cover": "/projects/hop-tac-truc-tuyen/image3.png",
+    "document": "/documents/hop-tac-truc-tuyen.docx",
+    "blockCount": 53
+  },
+  {
+    "id": 5,
+    "slug": "ai-tao-sinh-noi-dung",
+    "title": "AI tạo sinh & sáng tạo nội dung",
+    "shortTitle": "Creative AI",
+    "eyebrow": "Creative direction",
+    "summary": "Phối hợp Gemini, Midjourney và Canva AI để phát triển bài thuyết trình về vượt qua nỗi sợ giao tiếp ngoại ngữ.",
+    "highlight": "AI tạo nguyên liệu; con người biên tập, phản biện và quyết định để nội dung có cảm xúc và đúng mục tiêu.",
+    "tools": [
+      "Gemini",
+      "Midjourney",
+      "Canva AI"
+    ],
+    "number": "05",
+    "year": "2026",
+    "cover": "/projects/ai-tao-sinh-noi-dung/image3.webp",
+    "document": "/documents/ai-tao-sinh-noi-dung.docx",
+    "blockCount": 39
+  },
+  {
+    "id": 6,
+    "slug": "ai-co-trach-nhiem",
+    "title": "AI có trách nhiệm trong học thuật",
+    "shortTitle": "Responsible AI",
+    "eyebrow": "AI ethics",
+    "summary": "Phân tích ranh giới hỗ trợ và gian lận, quyền sở hữu trí tuệ, kiểm chứng đầu ra và bảo vệ dữ liệu trong học tập.",
+    "highlight": "Bộ bảy nguyên tắc cá nhân giúp sử dụng AI minh bạch, có trách nhiệm và không đánh mất tư duy độc lập.",
+    "tools": [
+      "Policy research",
+      "Critical thinking",
+      "AI ethics"
+    ],
+    "number": "06",
+    "year": "2026",
+    "cover": "/projects/ai-co-trach-nhiem/image2.png",
+    "document": "/documents/ai-co-trach-nhiem.docx",
+    "blockCount": 53
+  }
+]

@@ -1,0 +1,433 @@
+{
+  "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\portfolio\\25041286-Ngo-Gia-Linh\\content\\BT NMCNS\\BT6.docx",
+  "paragraph_count": 66,
+  "table_count": 1,
+  "media_count": 3,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "TRƯỜNG ĐẠI HỌC NGOẠI NGỮ - ĐHQGHN",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "BỘ MÔN NGÔN NGỮ VÀ VĂN HOÁ VIỆT NAM",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "----------------------------------------",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": [
+        "image1.png"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "BÀI TẬP",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "MÔN NHẬP MÔN CÔNG NGHỆ SỐ VÀ ỨNG DỤNG TRÍ TUỆ NHÂN TẠO",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Học kỳ 2 năm học: 2025 – 2026",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "BÁO CÁO:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "SỬ DỤNG AI CÓ TRÁCH NHIỆM TRONG HỌC TẬP VÀ NGHIÊN CỨU",
+      "images": []
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Sinh viên",
+          ":",
+          "Ngô Gia Linh"
+        ],
+        [
+          "Khoá",
+          ":",
+          "QH2025"
+        ],
+        [
+          "Chuyên ngành",
+          ":",
+          "Ngôn ngữ và Văn hoá Nga"
+        ],
+        [
+          "Mã sinh viên",
+          ":",
+          "25041286"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 1",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 1",
+      "text": "I. Nghiên cứu chính sách của trường về sử dụng AI",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 2",
+      "text": "1.1. Bối cảnh chung",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Từ năm học 2025–2026, Đại học Quốc gia Hà Nội (ĐHQGHN) đưa học phần chung “Nhập môn Công nghệ số và Ứng dụng Trí tuệ nhân tạo” (mã VNU1001) vào giảng dạy bắt buộc cho toàn bộ sinh viên chính quy từ khóa tuyển sinh 2025, giảng dạy trực tuyến toàn phần. Đây là một trong những bước đi cụ thể đầu tiên của một trường đại học lớn tại Việt Nam nhằm chuẩn hóa năng lực số và năng lực AI cho sinh viên ngay từ năm nhất.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Học phần này không chỉ dạy kỹ năng sử dụng công cụ AI, mà còn đặt trọng tâm vào nhận thức về đạo đức, liêm chính học thuật và an toàn số khi ứng dụng AI trong môi trường học thuật — đúng với tinh thần của bài tập này.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 2",
+      "text": "1.2. Các nguyên tắc chính sách then chốt (đối chiếu với dự thảo Thông tư của Bộ GD&ĐT)",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Song song với chính sách riêng của ĐHQGHN, Bộ Giáo dục và Đào tạo cũng đang xây dựng dự thảo Thông tư quy định ứng dụng công nghệ trong giáo dục đại học, trong đó nêu rõ một số nguyên tắc áp dụng chung mà các trường, bao gồm ĐHQGHN, đều hướng tới:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "AI chỉ đóng vai trò hỗ trợ, không thay thế vai trò của giảng viên trong giảng dạy và đánh giá.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "Việc sử dụng công nghệ và AI phải minh bạch, có thể giải trình, không làm sai lệch kết quả học tập thực chất của người học.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "Sinh viên phải tuân thủ liêm chính học thuật: không dùng AI để gian lận, đạo văn, giả mạo dữ liệu hoặc nhờ người/AI làm thay hoàn toàn nhiệm vụ học tập.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "Khi được yêu cầu, sinh viên phải công bố đầy đủ việc đã sử dụng công nghệ, AI trong quá trình thực hiện nhiệm vụ học tập.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "Dữ liệu nhạy cảm (đề thi chưa công bố, dữ liệu nghiên cứu chưa công bố, thông tin cá nhân) không được đưa lên các nền tảng AI công khai nếu chưa qua kiểm soát an toàn.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 2",
+      "text": "1.3. Nhận định cá nhân",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Điểm tích cực của chính sách là cách tiếp cận khá toàn diện: không chỉ giới hạn AI trong việc “cấm hay cho phép” mà đặt nó trong khung năng lực số cần được trang bị bài bản. Tuy nhiên, chính sách hiện tại (đặc biệt là dự thảo Thông tư) còn ở mức nguyên tắc chung, chưa quy định cụ thể mức độ được phép sử dụng AI cho từng loại nhiệm vụ học tập (ví dụ: tiểu luận, đồ án, luận văn) — đây là khoảng trống mà mỗi sinh viên cần tự xây dựng quy tắc cá nhân để lấp đầy, như mục IV của báo cáo này.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 1",
+      "text": "II. Thực hiện nhiệm vụ học tập với sự hỗ trợ của AI",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Nhiệm vụ được chọn:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Viết phần mở đầu (introduction) cho bài báo cáo với chủ đề “Tác động của AI tạo sinh đến kỹ năng tư duy độc lập của sinh viên”, sử dụng công cụ ChatGPT (OpenAI).",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 2",
+      "text": "2.1. Prompt đã sử dụng",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "“Tôi đang viết bài báo cáo về chủ đề ‘Tác động của AI tạo sinh đến kỹ năng tư duy độc lập của sinh viên’, dài khoảng 4-5 trang, dành cho giảng viên chấm điểm. Hãy gợi ý 3 hướng triển khai khác nhau cho phần mở đầu, mỗi hướng chỉ 2-3 câu tóm tắt ý chính, không viết hộ đoạn văn hoàn chỉnh.”",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 2",
+      "text": "2.2. Đầu ra của AI (tóm tắt)",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "AI đưa ra 3 hướng triển khai cho phần mở đầu:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "Hướng 1 — Tiếp cận từ sự phát triển của AI tạo sinh trong giáo dục: mở đầu bằng sự bùng nổ của các công cụ AI tạo sinh trong môi trường đại học, đặt vấn đề AI vừa nâng cao hiệu quả học tập vừa có thể làm thay đổi cách sinh viên suy nghĩ.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "Hướng 2 — Tiếp cận từ vấn đề tư duy độc lập của sinh viên thời đại số: xuất phát từ vai trò của tư duy độc lập như một năng lực cốt lõi, nêu thực trạng AI vừa hỗ trợ tư duy vừa có nguy cơ gây phụ thuộc nếu dùng thiếu kiểm soát.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "Hướng 3 — Tiếp cận theo hướng tranh luận hai mặt: đặt ra sự đối lập giữa hai quan điểm “AI tạo sinh là công cụ mở rộng trí tuệ” hay “yếu tố làm suy giảm khả năng suy nghĩ độc lập”, từ đó dẫn vào mục tiêu phân tích tác động tích cực, tiêu cực và điều kiện sử dụng AI chủ động, có tư duy phản biện.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 2",
+      "text": "2.3. Cách đánh giá, chỉnh sửa và tích hợp đầu ra của AI",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "Chọn Hướng 3 vì tạo được kịch tính và mạch lập luận rõ ràng nhất cho bài; không chọn Hướng 1 vì cách đặt vấn đề còn chung chung, thiếu một câu hỏi/mâu thuẫn cụ thể để dẫn dắt; không chọn Hướng 2 vì hai gợi ý còn rời rạc, thiếu liên kết logic giữa “vai trò tư duy độc lập” và “thực trạng AI”.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "Khi viết đoạn mở đầu thật, giữ lại khung đối lập “công cụ mở rộng trí tuệ” và “yếu tố làm suy giảm tư duy độc lập” của Hướng 3 làm trục chính, nhưng không dùng cách AI dẫn thẳng vào mục tiêu bài báo cáo vì hơi máy móc; tự thêm một ví dụ thực tế (sinh viên dùng AI viết luận, báo cáo mà không kiểm tra logic, không kiểm chứng thông tin) để đoạn mở đầu sinh động và gần với thực tế học tập hơn.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "Câu chữ, cách diễn đạt trong đoạn mở đầu hoàn chỉnh là do tác giả tự viết lại hoàn toàn, không sao chép nguyên văn bất kỳ câu nào từ gợi ý của AI; AI chỉ cung cấp khung ý tưởng ở mức tiêu đề từng hướng.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 2",
+      "text": "2.4. Đoạn mở đầu hoàn chỉnh",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 2",
+      "text": "Trong kỷ nguyên công nghệ số và trí tuệ nhân tạo, công cụ AI tạo sinh (Generative AI) — một nhánh của trí tuệ nhân tạo có khả năng tự động tạo ra nội dung mới như văn bản, hình ảnh, âm thanh, video hay mã lập trình — đang trở nên phổ biến hơn trong nhiều ngành nghề, đặc biệt là lĩnh vực giáo dục và học thuật. Ngày càng nhiều học sinh, sinh viên sử dụng AI tạo sinh trong quá trình học tập với tốc độ ngày càng tăng. Tuy nhiên, sự bùng nổ này cũng đặt ra một câu hỏi lớn cho xã hội: liệu AI tạo sinh là “công cụ mở rộng trí tuệ” hay “yếu tố làm suy giảm khả năng suy nghĩ độc lập”, khi nhiều sinh viên sử dụng AI để làm bài tập, viết luận, báo cáo mà không kiểm tra kỹ logic hay kiểm chứng thông tin. Để tìm câu trả lời cho vấn đề trên, bài báo cáo này phân tích các tác động tích cực, tiêu cực và điều kiện để sinh viên sử dụng AI một cách chủ động, có tư duy phản biện.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 2",
+      "text": "2.5. Trích dẫn việc sử dụng AI một cách minh bạch",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Ghi chú minh bạch (đặt ở cuối phần mở đầu / cuối bài báo cáo): “Trong quá trình thực hiện bài báo cáo này, tác giả đã sử dụng ChatGPT (OpenAI, truy cập tháng 6/2026) để gợi ý 3 hướng triển khai cho đoạn mở đầu. Tác giả lựa chọn và phát triển Hướng 3 thành đoạn văn hoàn chỉnh; toàn bộ câu chữ, lập luận và ví dụ minh họa là do tác giả tự viết và chịu trách nhiệm.”",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 1",
+      "text": "III. Phân tích các vấn đề đạo đức liên quan đến sử dụng AI trong học thuật",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 2",
+      "text": "3.1. Ranh giới giữa hỗ trợ hợp lý và gian lận học thuật",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Hỗ trợ hợp lý là khi AI đóng vai trò như một “trợ giảng”: gợi ý ý tưởng, giải thích khái niệm khó, kiểm tra logic, luyện tập phản biện — sinh viên vẫn là người ra quyết định cuối cùng. Gian lận xảy ra khi sinh viên để AI viết toàn bộ hoặc phần lớn nội dung rồi nộp dưới tên mình mà không công bố, biến sản phẩm của AI thành “của mình” một cách không trung thực. Ranh giới này không nằm ở việc “có dùng AI hay không”, mà nằm ở mức độ đóng góp thực sự của sinh viên và sự minh bạch khi công bố.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 2",
+      "text": "3.2. Vấn đề quyền sở hữu trí tuệ và trích dẫn",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "AI tạo sinh được huấn luyện trên lượng dữ liệu khổng lồ, trong đó có thể bao gồm các tác phẩm có bản quyền mà không xin phép tác giả gốc — đặt ra câu hỏi về nguồn gốc của nội dung do AI tạo ra. Đối với sinh viên, vấn đề thực tiễn hơn là: nội dung do AI sinh ra có được xem là “tác phẩm của mình” để đứng tên không? Quan điểm phổ biến hiện nay là sinh viên không nên đứng tên cho nội dung do AI tạo ra như công trình gốc của bản thân, và cần trích dẫn việc sử dụng AI như một nguồn hỗ trợ, tương tự cách trích dẫn một tài liệu tham khảo.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 2",
+      "text": "3.3. Tác động đến quá trình học tập và phát triển kỹ năng",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Sử dụng AI quá mức, đặc biệt theo kiểu “copy-paste”, có thể dẫn đến hiện tượng các nhà nghiên cứu gọi là “chuyển giao nhận thức” (cognitive offloading) — sinh viên dần mất khả năng tự lập luận, viết lách và giải quyết vấn đề độc lập vì đã quen “nhờ” AI làm hộ phần khó. Ngược lại, nếu dùng đúng cách (như mục 2.3), AI có thể giúp sinh viên học nhanh hơn, được phản hồi tức thì để tự sửa lỗi, từ đó củng cố kỹ năng. Sự khác biệt nằm ở việc sinh viên có chủ động duy trì vai trò “người suy nghĩ chính” hay biến mình thành người “biên tập lại sản phẩm của AI”.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 1",
+      "text": "IV. Bộ nguyên tắc cá nhân về sử dụng AI có trách nhiệm",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "Minh bạch và trung thực: luôn công khai việc đã dùng AI, ghi rõ công cụ, prompt và phần nội dung do AI hỗ trợ.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "AI là người hỗ trợ, không thay thế: dùng AI để gợi ý, kiểm tra, luyện tập; tự viết và chịu trách nhiệm với phần lõi của bài.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "Luôn kiểm chứng đầu ra của AI: đối chiếu số liệu, trích dẫn, khái niệm AI đưa ra với nguồn gốc đáng tin cậy trước khi sử dụng.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "Tôn trọng quyền sở hữu trí tuệ: không nộp nguyên văn nội dung AI tạo ra như sản phẩm của riêng mình; trích dẫn AI như một nguồn tham khảo.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "Giữ ranh giới hỗ trợ – gian lận: không để AI làm thay toàn bộ bài kiểm tra, tiểu luận, đồ án.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "Bảo vệ dữ liệu và quyền riêng tư: không đưa đề thi chưa công bố, dữ liệu nghiên cứu, thông tin cá nhân của người khác lên các nền tảng AI công khai.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "List Paragraph",
+      "text": "Dùng AI để phát triển kỹ năng, không lệ thuộc: sau mỗi lần dùng AI, tự đánh giá “mình đã học được gì” để tránh teo tư duy độc lập.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 1",
+      "text": "V. Infographic minh họa: “Sử dụng AI có trách nhiệm trong học thuật”",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": [
+        "image2.png"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 1",
+      "text": "Tài liệu tham khảo",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "1. Đại học Quốc gia Hà Nội (2026), “Sinh viên ĐHQGHN sẽ học AI và công nghệ số từ năm nhất”, vnu.edu.vn.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "2. Bộ Giáo dục và Đào tạo, Dự thảo Thông tư quy định ứng dụng công nghệ trong giáo dục đại học (lấy ý kiến năm 2026).",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "3. Báo Giáo dục và Thời đại, Vietnamplus, Viettimes (2026), các bài viết phân tích dự thảo Thông tư nêu trên.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "4. Bộ Khoa học và Công nghệ, Hướng dẫn về liêm chính khoa học và đạo đức nghề nghiệp trong nghiên cứu khoa học (2026).",
+      "images": []
+    }
+  ]
+}
