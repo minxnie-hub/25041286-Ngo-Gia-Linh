@@ -1,0 +1,51 @@
+[
+  {
+    "name": "BT1.docx",
+    "paragraphs": 45,
+    "tables": 0,
+    "media": 27,
+    "output": "C:\\Users\\Admin\\OneDrive\\Desktop\\portfolio\\25041286-Ngo-Gia-Linh\\content-extracted\\BT1"
+  },
+  {
+    "name": "BT2.docx",
+    "paragraphs": 113,
+    "tables": 3,
+    "media": 2,
+    "output": "C:\\Users\\Admin\\OneDrive\\Desktop\\portfolio\\25041286-Ngo-Gia-Linh\\content-extracted\\BT2"
+  },
+  {
+    "name": "BT3.docx",
+    "paragraphs": 222,
+    "tables": 8,
+    "media": 12,
+    "output": "C:\\Users\\Admin\\OneDrive\\Desktop\\portfolio\\25041286-Ngo-Gia-Linh\\content-extracted\\BT3"
+  },
+  {
+    "name": "BT4.docx",
+    "paragraphs": 76,
+    "tables": 3,
+    "media": 6,
+    "output": "C:\\Users\\Admin\\OneDrive\\Desktop\\portfolio\\25041286-Ngo-Gia-Linh\\content-extracted\\BT4"
+  },
+  {
+    "name": "BT5.docx",
+    "paragraphs": 64,
+    "tables": 4,
+    "media": 5,
+    "output": "C:\\Users\\Admin\\OneDrive\\Desktop\\portfolio\\25041286-Ngo-Gia-Linh\\content-extracted\\BT5"
+  },
+  {
+    "name": "BT6.docx",
+    "paragraphs": 66,
+    "tables": 1,
+    "media": 3,
+    "output": "C:\\Users\\Admin\\OneDrive\\Desktop\\portfolio\\25041286-Ngo-Gia-Linh\\content-extracted\\BT6"
+  },
+  {
+    "name": "Tài liệu không có tiêu đề.docx",
+    "paragraphs": 17,
+    "tables": 0,
+    "media": 8,
+    "output": "C:\\Users\\Admin\\OneDrive\\Desktop\\portfolio\\25041286-Ngo-Gia-Linh\\content-extracted\\Tài-liệu-không-có-tiêu-đề"
+  }
+]

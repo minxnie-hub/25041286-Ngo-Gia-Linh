@@ -1,0 +1,1578 @@
+{
+  "source": "C:\\Users\\Admin\\OneDrive\\Desktop\\portfolio\\25041286-Ngo-Gia-Linh\\content\\BT NMCNS\\BT3.docx",
+  "paragraph_count": 222,
+  "table_count": 8,
+  "media_count": 12,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "TRƯỜNG ĐẠI HỌC NGOẠI NGỮ - ĐHQGHN",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "BỘ MÔN NGÔN NGỮ VÀ VĂN HOÁ VIỆT NAM",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "----------------------------------------",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": [
+        "image1.png"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "BÀI TẬP",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "MÔN NHẬP MÔN CÔNG NGHỆ SỐ VÀ ỨNG DỤNG TRÍ TUỆ NHÂN TẠO",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Học kỳ 2 năm học: 2025 – 2026",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "BÁO CÁO:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "ỨNG DỤNG PROMPT ENGINEERING TRONG HỖ TRỢ HỌC TẬP BẰNG AI",
+      "images": []
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Sinh viên",
+          ":",
+          "Ngô Gia Linh"
+        ],
+        [
+          "Khoá",
+          ":",
+          "QH2025"
+        ],
+        [
+          "Chuyên ngành",
+          ":",
+          "Ngôn ngữ và Văn hoá Nga"
+        ],
+        [
+          "Mã sinh viên",
+          ":",
+          "25041286"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Trong thời đại trí tuệ nhân tạo phát triển mạnh mẽ, các mô hình ngôn ngữ lớn như ChatGPT đang trở thành công cụ hỗ trợ học tập hiệu quả cho học sinh và sinh viên. Tuy nhiên, chất lượng kết quả mà AI tạo ra phụ thuộc rất lớn vào cách người dùng đặt câu lệnh (prompt).",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Prompt Engineering là kỹ thuật thiết kế prompt nhằm hướng dẫn AI tạo ra kết quả chính xác, logic và phù hợp với mục tiêu sử dụng. Việc sử dụng prompt hiệu quả không chỉ giúp tiết kiệm thời gian mà còn nâng cao chất lượng học tập.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Báo cáo này nghiên cứu ảnh hưởng của các mức độ prompt khác nhau đối với ba tác vụ học tập phổ biến:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Tóm tắt tài liệu học thuật",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Giải thích khái niệm phức tạp",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Tạo câu hỏi ôn tập",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Mỗi tác vụ sẽ được thử nghiệm với:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt cơ bản",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt cải tiến",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt nâng cao",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Sau đó tiến hành so sánh và phân tích hiệu quả của từng loại prompt.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "TÁC VỤ 1 — TÓM TẮT TÀI LIỆU HỌC THUẬT",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Mục tiêu tác vụ",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Tóm tắt tài liệu giúp:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Xác định ý chính",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Tiết kiệm thời gian đọc",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Hệ thống hóa kiến thức",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Một prompt tốt cần giúp AI:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Chọn lọc thông tin quan trọng",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Trình bày logic",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Dễ hiểu với người học",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Nội dung thử nghiệm",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Văn bản về lễ hội đền Cuông",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Đền Cuông gắn với một huyền thoại trong lịch sử chống ngoại xâm của dân lộc. Đền thờ Thục An Dương Vương - một vị vua có công lớn trong buổi đầu dựng nước. Lễ hội đền Cuông được tổ chức vào dịp rằm tháng Hai âm lịch hằng năm thu hút đông đảo người dân về dự. Sau nhiều năm bị lãng quên, năm 1993, lễ hội đến Cuông được phục hồi. Từ đó đến nay, lễ hội được duy trì hàng năm và trở thành một sinh hoạt văn hoá tâm linh không thể thiếu của người dân Nghệ An và du khách thập phương. [...]",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Gần 20 năm qua, lễ hội đền Cuông được tổ chức hằng năm với cácc lễ nghi trang trọng mà linh thiêng: lễ khởi quang, lễ cáo trung thiên, lễ yết, lễ rước, lễ đại tế và lễ tạ. Lễ khơi quang diễn ra đầu tiên, được tổ chức vào ngày 12 tháng Hai âm lịch để xin phép các vị thần cho nhân dân dọn dẹp đền, chuẩn bị cho lễ hội. Sau lễ khai quang là lễ cáo trung thiên được tổ chức vào sáng ngày 14 tháng Hai để báo cáo với các vị thần  rằng công việc dọn dẹp đền đó hoàn thành, mời các vị về đền tham dự lễ hội và chứng giám cho lòng thành kính của nhân dân, Lễ yết diễn ra vào chiều tối ngày 14 tháng Hai gồm 6 bước được tiến hành qua 35 lần xướng. Sau phần hành lễ là phần dâng hương của đại diện các ban ngành và người dân về dự lễ. Cũng trong tối 14 tháng Hai, còn có lễ rước vua và công chúa vị hành, Sáng 15 tháng Hai tiến hành lễ rước vua, công chúa và tướng Cao Lỗ từ đình Xuân Ái về đền Cuông. Sau đó là lễ đại tế. Lễ đại tế là lễ chính, bao gồm 8 bước. Trình tự và nội dung của buổi lễ tương tự như lễ yết, nhưng có thêm hai lần dâng hương, rượu. Lễ tế được tổ chức vào sáng ngày 16 tháng Hai để tạ ơn các vị thần đã về dự lễ. Trong thời gian lễ hội, ban ngày có các trò chơi truyền thông, thi đấu thể thao như đánh đu, chọi gà, kéo co, cờ người, biểu diễn võ cổ truyền, thi đấu bóng chuyền, hội trại,... ban đêm có hát ca trù, tuồng, chèo, đốt lửa trại,... Không khí lễ hội thật là hấp dẫn, tưng bừng, náo nhiệt",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Prompt cơ bản",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Prompt: Hãy tóm tắt đoạn văn sau.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Kết quả:",
+      "images": [
+        "image2.png"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Đánh giá:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Tiêu chí",
+          "Nhận xét"
+        ],
+        [
+          "Độ đầy đủ",
+          "Trung bình"
+        ],
+        [
+          "Tính logic",
+          "Chưa cao"
+        ],
+        [
+          "Độ chi tiết",
+          "Trung bình"
+        ],
+        [
+          "Giá trị học tập",
+          "Chưa nổi bật"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt cải tiến",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Bạn là trợ giảng môn Ngữ văn.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Hãy tóm tắt đoạn văn sau thành khoảng 120 từ dành cho học sinh THPT.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Yêu cầu:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Nêu ý chính",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Dùng ngôn ngữ dễ hiểu",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Trình bày dạng bullet",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Kết quả:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Nhận xét",
+      "images": [
+        "image3.png"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Tiêu chí",
+          "Nhận xét"
+        ],
+        [
+          "Độ đầy đủ",
+          "Tốt"
+        ],
+        [
+          "Tính logic",
+          "Rõ ràng"
+        ],
+        [
+          "Độ chi tiết",
+          "Khá cao"
+        ],
+        [
+          "Giá trị học tập",
+          "Tốt"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt nâng cao",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Bạn là chuyên gia nghiên cứu văn hóa dân gian và có kỹ năng sư phạm.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Nhiệm vụ:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Tóm tắt văn bản về lễ hội đền Cuông cho học sinh THPT.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Thực hiện theo các bước:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Xác định chủ đề chính",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Nêu các giá trị văn hóa quan trọng",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Tóm tắt các nghi lễ tiêu biểu",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Viết đoạn tóm tắt cuối cùng dưới 150 từ",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Định dạng đầu ra:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Chủ đề",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Giá trị văn hóa",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Nghi lễ tiêu biểu",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Tóm tắt cuối cùng",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Kết quả:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": [
+        "image4.png"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": [
+        "image5.png"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Heading 1",
+      "text": "Phân tích hiệu quả prompt",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Prompt nâng cao hiệu quả hơn vì:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Có role prompting giúp AI phản hồi theo hướng học thuật",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Chia nhiệm vụ theo từng bước giúp AI suy luận logic",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Structured output giúp kết quả rõ ràng hơn",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Có giới hạn số từ nên nội dung súc tích",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal (Web)",
+      "text": "Điều này cho thấy cấu trúc prompt ảnh hưởng mạnh đến chất lượng đầu ra của AI.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "TÁC VỤ 2 — GIẢI THÍCH KHÁI NIỆMPHỨC TẠP",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Mục tiêu tác vụ",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Giải thích khái niệm giúp:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Người học hiểu bản chất vấn đề",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Tiếp cận kiến thức khó dễ dàng hơn",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Tăng khả năng ghi nhớ",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Khái niệm thử nghiệm",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Khái niệm: Duy vật biện chứng",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt cơ bản",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt: Giải thích duy vật biện chứng.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": [
+        "image6.png"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Tiêu chí",
+          "Nhận xét"
+        ],
+        [
+          "Độ chính xác",
+          "Tốt"
+        ],
+        [
+          "Dễ hiểu",
+          "Chưa cao"
+        ],
+        [
+          "Ví dụ minh họa",
+          "Không có"
+        ],
+        [
+          "Giá trị học tập",
+          "Trung bình"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt cải tiến",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Hãy giải thích khái niệm duy vật biện chứng cho học sinh THPT bằng ngôn ngữ đơn giản và ví dụ thực tế.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": [
+        "image7.png"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Tiêu chí",
+          "Nhận xét"
+        ],
+        [
+          "Độ chính xác",
+          "Tốt"
+        ],
+        [
+          "Dễ hiểu",
+          "Khá"
+        ],
+        [
+          "Ví dụ minh họa",
+          "Có"
+        ],
+        [
+          "Giá trị học tập",
+          "Khá"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt nâng cao",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Bạn là giảng viên Triết học Mác-Lênin.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Hãy giải thích khái niệm duy vật biện chứng cho sinh viên năm nhất.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Yêu cầu:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Giải thích từng bước",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Dùng ví dụ đời sống",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "So sánh với cách nhìn phiến diện",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Nêu 3 đặc điểm chính",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Đưa ra 2 ví dụ thực tế",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Tạo 3 câu hỏi kiểm tra hiểu bài",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Trình bày rõ ràng theo từng mục.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Kết quả",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": [
+        "image8.png"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Phân tích hiệu quả prompt",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt nâng cao hiệu quả hơn vì:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Có audience targeting",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Có ví dụ thực tế",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Có cấu trúc rõ ràng",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Có câu hỏi kiểm tra giúp củng cố kiến thức",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt này không chỉ giải thích mà còn hỗ trợ quá trình học tập.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "TÁC VỤ 3 — TẠO CÂU HỎI ÔN TẬP",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Mục tiêu tác vụ",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Tạo câu hỏi ôn tập giúp:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Kiểm tra kiến thức",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Luyện tập trước kiểm tra",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Hệ thống hóa nội dung học",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Chủ đề thử nghiệm",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Chủ nghĩa xã hội từ năm 1917 đến nay",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt cơ bản",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Tạo câu hỏi về chủ nghĩa xã hội từ năm 1917 đến nay.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Kết quả",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": [
+        "image9.png"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Nhận xét",
+      "images": []
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Tiêu chí",
+          "Nhận xét"
+        ],
+        [
+          "Độ đa dạng",
+          "Thấp"
+        ],
+        [
+          "Độ khó",
+          "Chưa phân loại"
+        ],
+        [
+          "Đáp án",
+          "Không có"
+        ],
+        [
+          "Giá trị ôn tập",
+          "Trung bình"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt cải tiến",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Hãy tạo 10 câu hỏi trắc nghiệm về chủ nghĩa xã hội từ năm 1917 đến nay kèm đáp án.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": [
+        "image10.png"
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Tiêu chí",
+          "Nhận xét"
+        ],
+        [
+          "Cấu trúc",
+          "Rõ hơn"
+        ],
+        [
+          "Có đáp án",
+          "Có"
+        ],
+        [
+          "Giá trị học tập",
+          "Tốt"
+        ],
+        [
+          "Phân loại độ khó",
+          "Chưa có"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt nâng cao",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Bạn là giáo viên Lịch sử.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Hãy tạo bộ câu hỏi ôn tập về chủ nghĩa xã hội từ năm 1917 đến nay.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Yêu cầu:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "5 câu nhận biết",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "3 câu vận dụng",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "2 câu phân tích",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Có đáp án",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Giải thích ngắn gọn",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Phân loại mức độ",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Bao phủ các nội dung:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Cách mạng tháng Mười Nga",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Sự hình thành Liên Xô",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Chiến tranh lạnh",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Sự tan rã của Liên Xô",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Kết quả",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": [
+        "image11.png"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Phân tích hiệu quả prompt",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt nâng cao hiệu quả hơn vì:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Có phân tầng mức độ tư duy",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Có giải thích đáp án",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Có giới hạn phạm vi kiến thức",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Structured output giúp dễ học hơn",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Ngoài ra, prompt còn giúp AI tạo nội dung có tính hệ thống và phù hợp mục tiêu ôn tập.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "SO SÁNH HIỆU QUẢ CÁC LOẠI PROMPT",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Tiêu chí",
+          "Prompt cơ bản",
+          "Prompt cải tiến",
+          "Prompt nâng cao"
+        ],
+        [
+          "Độ rõ ràng",
+          "Thấp",
+          "Trung bình",
+          "Cao"
+        ],
+        [
+          "Tính logic",
+          "Thấp",
+          "Khá",
+          "Rất cao"
+        ],
+        [
+          "Kiểm soát đầu ra",
+          "Kém",
+          "Khá",
+          "Tốt"
+        ],
+        [
+          "Cá nhân hóa",
+          "Không có",
+          "Có ít",
+          "Rõ ràng"
+        ],
+        [
+          "Giá trị học tập",
+          "Trung bình",
+          "Tốt",
+          "Rất tốt"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Phân tích tổng quát",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Kết quả thử nghiệm cho thấy:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt càng cụ thể thì phản hồi của AI càng chất lượng",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Role prompting giúp AI điều chỉnh phong cách phù hợp",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Structured output làm kết quả dễ sử dụng hơn",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Chain-of-thought giúp AI suy luận logic hơn",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Điều này chứng minh Prompt Engineering có vai trò rất quan trọng trong việc ứng dụng AI vào học tập.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "TỔNG HỢP NGUYÊN TẮC VIẾT PROMPT HIỆU QUẢ",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Qua quá trình thử nghiệm, có thể rút ra các nguyên tắc:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "1. Xác định rõ mục tiêu",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "AI cần biết chính xác nhiệm vụ cần thực hiện.",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "2. Gán vai trò cho AI",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Ví dụ:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Giáo viên",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Trợ giảng",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Chuyên gia",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "3. Chỉ định cấu trúc đầu ra",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Ví dụ:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Bullet",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Bảng",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Các bước",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "4. Đưa ra ràng buộc cụ thể",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Ví dụ:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Số từ",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Đối tượng người học",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Độ khó",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "5. Sử dụng kỹ thuật Prompt Engineering",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Role prompting",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Structured output",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Chain-of-thought",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Few-shot prompting",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "KẾT LUẬN",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Prompt Engineering đóng vai trò quan trọng trong việc khai thác hiệu quả AI cho học tập. Qua thử nghiệm có thể thấy: Prompt nâng cao tạo kết quả chính xác và logic hơn",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "AI phản hồi tốt hơn khi có:",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Vai trò",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Ngữ cảnh",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Cấu trúc",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Ràng buộc cụ thể",
+      "images": []
+    },
+    {
+      "type": "paragraph",
+      "style": "Normal",
+      "text": "Kỹ năng viết prompt sẽ trở thành một năng lực quan trọng trong thời đại số, giúp học sinh và sinh viên học tập hiệu quả hơn với AI.",
+      "images": []
+    }
+  ]
+}
