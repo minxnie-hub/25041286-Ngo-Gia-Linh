@@ -1,29 +1,28 @@
-# Portfolio Ngô Gia Linh — MSSV 25041286
+# Portfolio Ngô Gia Linh - V5
 
-Portfolio học phần **Nhập môn Công nghệ số và Ứng dụng Trí tuệ nhân tạo**, xây dựng bằng Next.js và xuất tĩnh để deploy trên GitHub Pages.
+Bản này là website tĩnh hoàn chỉnh, không cần npm.
 
-## Chạy trên máy
+## Cấu trúc
+
+- `site/index.html`: trang chủ, chỉ có giới thiệu và 6 thẻ bài tập.
+- `site/bai-tap-1` đến `site/bai-tap-6`: sáu trang chi tiết riêng.
+- `site/styles.css`: toàn bộ giao diện và responsive.
+- `site/app.js`: menu, loader, chuyển trang, reveal, lightbox và hiệu ứng canvas xóa theo chuột.
+- `site/assets`: ảnh cá nhân và ảnh minh chứng.
+- `content`: dữ liệu gốc của 6 bài để đối chiếu.
+- `.github/workflows/deploy-pages.yml`: deploy trực tiếp thư mục `site` lên GitHub Pages.
+
+## Cập nhật repo
+
+1. Giữ lại duy nhất thư mục `.git` trong repo trên máy.
+2. Xóa các file cũ còn lại.
+3. Chép toàn bộ nội dung bản V5 vào thư mục repo.
+4. Chạy:
 
 ```bash
-npm install
-npm run dev
+git add -A
+git commit -m "Split assignments into separate pages"
+git push
 ```
 
-Mở `http://localhost:3000`.
-
-## Build production
-
-```bash
-npm run build
-```
-
-Lệnh này tạo website tĩnh trong thư mục `out/`.
-
-## Deploy GitHub Pages
-
-1. Đẩy toàn bộ source lên repository GitHub, khuyến nghị đặt tên `25041286-Ngo-Gia-Linh`.
-2. Vào **Settings → Pages**.
-3. Tại **Build and deployment**, chọn **GitHub Actions**.
-4. Push lên nhánh `main`; workflow `.github/workflows/deploy-pages.yml` sẽ tự build và deploy.
-
-Cấu hình tự nhận tên repository để tạo đúng `basePath`, nên không bị lỗi ảnh hoặc `_next` khi chạy dưới đường dẫn GitHub Pages.
+Trong `git status` phải thấy `site/bai-tap-1/index.html` đến `site/bai-tap-6/index.html`.

@@ -23,21 +23,17 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Verify prebuilt portfolio
-        run: |
-          test -f site/index.html
-          test -d site/_next
-          echo "Prebuilt portfolio is present."
-
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
-
-      - name: Upload prebuilt portfolio
+      - name: Verify website
+        run: |
+          test -f site/index.html
+          test -f site/bai-tap-1/index.html
+          test -f site/bai-tap-6/index.html
+      - name: Upload portfolio
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./site
-
       - name: Deploy GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
