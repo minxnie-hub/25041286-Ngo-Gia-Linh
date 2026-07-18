@@ -1,4 +1,4 @@
-# Portfolio Ngô Gia Linh - V6
+# Portfolio Ngô Gia Linh - V7
 
 Bản này là website tĩnh hoàn chỉnh, không cần npm.
 
@@ -16,7 +16,7 @@ Bản này là website tĩnh hoàn chỉnh, không cần npm.
 
 1. Giữ lại duy nhất thư mục `.git` trong repo trên máy.
 2. Xóa các file cũ còn lại.
-3. Chép toàn bộ nội dung bản V6 vào thư mục repo.
+3. Chép toàn bộ nội dung bản V7 vào thư mục repo.
 4. Chạy:
 
 ```bash
@@ -28,7 +28,7 @@ git push
 Trong `git status` phải thấy `site/bai-tap-1/index.html` đến `site/bai-tap-6/index.html`.
 
 
-## V6 visual fixes
+## V7 visual fixes
 - Hero title repositioned over the face.
 - Removed the decorative cream circle/right-side panel.
 - Improved contrast for the ULIS/Russian Studies label.
