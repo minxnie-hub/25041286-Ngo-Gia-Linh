@@ -1,9 +1,8 @@
-# Ngô Gia Linh Portfolio — V8
+# Ngô Gia Linh Portfolio — V10
 
-Bản sửa V8: ảnh hero phủ kín toàn chiều ngang, bỏ vùng nền mờ; giảm cỡ và tăng line-height cho các tiêu đề lớn để dấu tiếng Việt không đè nhau.
+Bản V10 thay lại phần Giới thiệu, Liên hệ và Tổng kết theo đúng nội dung Ngô Gia Linh đã cung cấp.
 
-
-## V9 update
-- Added a dedicated Tổng kết section with unused profile images 6 and 7.
-- Added summary navigation across the home and six assignment pages.
-- Added a subtle Russian-studies visual motif and a future-learning direction.
+- Giữ cấu trúc trang chủ và sáu trang bài tập riêng.
+- Bổ sung đầy đủ: Về mình, Mục tiêu học tập, Mục tiêu của Portfolio và email liên hệ.
+- Tổng kết sử dụng đúng ba nội dung gốc: Trải nghiệm cá nhân; Kỹ năng quan trọng nhất đã học được; Thách thức và cách vượt qua.
+- Xóa toàn bộ nội dung tổng kết được tự bổ sung ở V9.
